@@ -1,10 +1,8 @@
-MAKE | MAKE RE | MAKE FCLEAN
+#My Hunter
 
-NAME :
-    MY_HUNTER
+USAGE :
 
-HOW TO USE :
-    Execute the game : ./my_hunter
+    ./my_hunter
 
 TOOLS :
     Use mouse : left click
